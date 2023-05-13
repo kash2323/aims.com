@@ -1,0 +1,40 @@
+nav{
+	background: #E41224;
+}
+
+nav ul li{
+	display: inline;
+	font: 15px Helvetica, Arial, sans-serif;
+}
+
+nav ul{
+	display: inline-block;
+	list-style: none;
+}
+
+nav ul li a {
+	color: #ffffff;
+	padding: 35px 35px 35px 35px;
+	text-decoration: none;
+	position: relative;
+	left: -100;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	color: #E41224;
+	position: relative;
+	right: -1213px;
+}
+
+a {
+	color: #E41224;
+}
+
+a:hover {
+	background-color: #E94C59;
+	display: inline-block;
+	padding: 10px;
+}
